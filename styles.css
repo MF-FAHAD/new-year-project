@@ -61,6 +61,7 @@ text-align: center;
 .banner3{
     background-image: linear-gradient(0deg, rgb(9, 9, 9) 3.482%,rgba(16, 16, 16, 0) 101.632%), url('./images/Vectorrr.png');
     height: 600px;
+    width: 1320px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -105,4 +106,83 @@ text-align: center;
     background: none;
     color: white;
     font-weight: bold;
+}
+/* banner4 */
+.banner4{
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    height: 600px;
+    width: 1320px;
+    margin: 60px 50px 10px 100px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ban4-contain{
+    width: 949px;
+    height: 268px;
+    /* background-color: aqua; */
+    margin: 100px 370px 200px 370px;
+    
+   
+}
+
+.ban4-title1{
+   margin-left: 140px;
+   font-size: 35px;
+   font-weight: 800;
+}
+.ban4-title2{
+    margin-left: 90px;
+    line-height: 2px;
+    font-size: 35px;
+   font-weight: 800;
+}
+.red{
+    color: red;
+}
+.ban4-title3{
+    margin-left: 40px;
+    font-size: 35px;
+   font-weight: 800;
+}
+.ban4-btn-container{
+    text-align: center;
+    /* background-color: red; */
+    margin-left: 55px;
+}
+.ban4-btn{
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    height: 56px;
+    width: 160px;
+    color: white;
+    font-weight: 900;
+}
+/* banner5 */
+.banner5{
+    /* background-color: antiquewhite; */
+    height: 380px;
+    width: 1320px;
+    margin: 60px 50px 10px 100px;
+    border-radius: 20px;
+    display: flex;
+    text-align: center;
+    align-items:center;
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+}
+.div1{
+    width: 290px;
+    height: 255px;
+    /* background-color: aliceblue; */
+}
+.div2{
+    width: 463px;
+    height: 363px;
+}
+.div3{
+    width: 236px;
+    height: 270px;
+    /* background-color: aqua; */
 }
