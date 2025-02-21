@@ -200,7 +200,7 @@ text-align: center;
 .banner6{
     width: 1400px;
     height: 562.07px;
-    margin: 0px 50px 10px 100px;
+    margin: 0px 50px 0px 100px;
     /* background-color: aqua; */
     /* display: flex; */
     /* display: block; */
@@ -210,7 +210,7 @@ text-align: center;
 .img1{
     background-image: url('./images/Rectangle\ 2.png');
     height: 200px;
-    width: 1400px;
+    width: 1320px;
     position: relative;
     top: 359px;
 }
@@ -231,3 +231,219 @@ text-align: center;
     bottom: 700px;
 }
 
+.bannner7{
+    width: 1320px;
+    height: 1160px;
+    /* background-color: aqua; */
+    margin: 0px 50px 10px 100px;
+
+}
+.ban7-head{
+    width: 600px;
+    height: 200px;
+    /* background-color:aquamarine; */
+   padding-left: 36px;
+   
+}
+.ban7-sub-title{
+    position: relative;
+    top: 65px;
+    font-size: 20px;
+}
+.ban7-title{
+    position: relative;
+    font-size: 40px;
+    top: 20px;
+}
+.ban7-para{
+    opacity: 0.7;
+    position: relative;
+    bottom: 0px;
+    font-weight: 500;
+}
+
+.ban7-images{
+    width: 1320px;
+    height: 85%;
+    /* background-color: bisque; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+}
+.box{
+    width: 420px;
+    height: 450px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 17px;
+    box-shadow: 10px 10px 10px 0px grey;
+
+}
+.img-box1{
+    background-image: url('./images/Rectangle\ 3.png');  
+}
+.img-box2{
+    background-image: url('./images/Rectangle\ 4.png');
+}
+.img-box3{
+    background-image: url('./images/Rectangle\ 5.png');
+}
+.img-box4{
+    background-image: url('./images/Rectangle\ 6.png');
+
+}
+.img-box5{
+    background-image: url('./images/Rectangle\ 7.png');
+}
+.img-box6{
+    background-image: url('./images/Rectangle\ 8.png');
+}
+
+.banner8{
+    width: 1320px;
+    height: 616px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 40px 50px 10px 100px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ban8-container{
+    width: 596px;
+    height: 300px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+}
+.ban8-para{
+    opacity: 0.6;
+    /* position: relative;
+    bottom: 25px; */
+}
+.btn-container{
+    width: 648px;
+    height: 72px;
+    border-radius: 50px;
+    background: rgb(255, 255, 255);
+    margin-top: 10px;
+}
+.email{
+    height: 71px;
+    width: 60%;
+    border: none;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    text-align: left;
+    padding-left: 40px;
+    /* background-color: aquamarine; */
+    font-size: 20px;
+}
+.ban8-btn-sub{
+    color: white;
+    font-size: 20px;
+    background-color: red;
+    height: 70px;
+    width: 32.9%;
+    padding: 20px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: none;
+    position: relative;
+    bottom: 0.5px;
+    cursor: pointer;
+}
+
+/* banner 9 */
+.banner9{
+    width: 1330px;
+    height: 509px;
+    background-color: black;
+    margin: 0px 70px 10px 100px;
+    border-radius: 20px;
+    display: flex;
+}
+.ban9-div1{
+    width: 444px;
+    height: 509px;
+    /* background-color: aqua; */
+
+}
+.ban9-div2{
+    width: 444px;
+    height: 509px;
+    /* background-color: lawngreen; */
+}
+.ban9-div3{
+    width: 444px;
+    height: 509px;
+    position: relative;
+    top: 50px;
+    /* background-color: antiquewhite; */
+}
+.div1-title1{
+    width: 250px;
+    height: 80px;
+    /* background-color: lightcoral; */
+    margin: 60px 0 0 50px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: white;
+}
+.div1-title2{
+    margin: 50px 0 0 50px;
+    position: relative;
+    top: 220px;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.ban9-div2{
+    display: flex;
+    align-items: center;
+}
+
+.icon1{
+    position:relative;
+    left: 100px;
+}
+.icon2{
+    position:relative;
+    left: 80px;
+}
+.icon3{
+    position:relative;
+    left: 60px;
+}
+.icon4{
+    position:relative;
+    left: 40px;   
+}
+
+.text-color{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+.call-icon{
+    position: relative;
+    top: 8px;
+    
+}
+.web-icon{
+    position: relative;
+    top: 8px; 
+}
+.Unsubscribe{
+    position: relative;
+    top: 260px;
+    left: 250px;
+}
