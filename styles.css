@@ -186,3 +186,48 @@ text-align: center;
     height: 270px;
     /* background-color: aqua; */
 }
+/* banner6 */
+.banner-6-head{
+    width: 460px;
+    height: 260px;
+    /* background-color: aqua; */
+    margin: 60px 50px 0px 550px;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 13px;
+    margin-top: 60px;
+}
+.banner6{
+    width: 1400px;
+    height: 562.07px;
+    margin: 0px 50px 10px 100px;
+    /* background-color: aqua; */
+    /* display: flex; */
+    /* display: block; */
+   
+
+}
+.img1{
+    background-image: url('./images/Rectangle\ 2.png');
+    height: 200px;
+    width: 1400px;
+    position: relative;
+    top: 359px;
+}
+.img2{
+    background-image: url('./images/Group\ 75.png');
+    width: 796.46px;
+    height: 562.07px;
+    position: relative;
+    left: 0px;
+    bottom: 200px;
+}
+.img3{
+    background-image: url('./images/Group\ 44.png');
+    width: 305.69px;
+    height: 305.69px;
+    position: relative;
+    left: 900px;
+    bottom: 700px;
+}
+
